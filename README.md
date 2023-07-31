@@ -1,6 +1,7 @@
-# 2023 CICV-Rust 训练营 
+# 2023 QCL Rust 训练营 
 <div class="oranda-hide">
-
+泉城实验室 [2023安全操作系统训练营](https://qcl.weketang.cn/)
+  
 # rustlings 🦀❤️
 
 </div>
